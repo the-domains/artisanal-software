@@ -1,0 +1,28 @@
+name: Artisanal Software
+favicon: null
+layout_spectrum: 0.10263209627009928
+typography_spectrum: 0.4854985820129514
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.39295939914882183
+  lightness: 0.919944952474907
+  saturation: 0.5746257314458489
+  rhythmicContrast: 0.5701613209675997
+purpose: []
