@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Artisanal Software]]></title>
         <description><![CDATA[Artisanal Software]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/artisanal-software/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Apr 2016 05:02:47 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Apr 2016 05:16:27 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/artisanal-software/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/35d46a6e-2fd3-4b2d-a33c-14e36cf73299.jpg">]]></description>
+            <link>https://thegrid.ai/artisanal-software/b448199d-e701-48c5-9cc6-ed7b38e1c0e8/index.html</link>
+            <guid isPermaLink="false">b448199d-e701-48c5-9cc6-ed7b38e1c0e8</guid>
+            <pubDate>Fri, 29 Apr 2016 05:16:25 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a0ee3705-43d8-4245-8e39-25d1683622b6.jpg">]]></description>
-            <link>undefined5729dd52-63de-4674-a9c9-a88615f1c4bc/index.html</link>
+            <link>https://thegrid.ai/artisanal-software/5729dd52-63de-4674-a9c9-a88615f1c4bc/index.html</link>
             <guid isPermaLink="false">5729dd52-63de-4674-a9c9-a88615f1c4bc</guid>
             <pubDate>Fri, 29 Apr 2016 05:02:20 GMT</pubDate>
         </item>
